@@ -12,6 +12,9 @@ body {
 .link:focus {
     color:teal;
 }
+.list {
+  text-decoration: none;
+}
 .button1 {
    color: #4D5AE5;
     font-weight: 500;

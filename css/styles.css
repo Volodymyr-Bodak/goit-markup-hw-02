@@ -1,0 +1,127 @@
+body {
+  font-family: 'Roboto';
+}
+
+
+.link a {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
+.link:hover,
+.link:focus {
+    color:teal;
+}
+.button1 {
+   color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+button:focus,
+button:active,
+button:hover{
+   color: blue;
+}
+button {
+    cursor: pointer;
+}
+.button2 {
+   color: #FFFFFF;
+   font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    background: #4D5AE5;
+}
+
+.list h3 {
+  color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.list p {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
+.word_part_one {
+  color: #4D5AE5;
+  font-weight: 800;
+ font-size: 18px;
+ line-height: 24px;
+}
+.word_part_two {
+  color: #F4F4FD;
+  font-weight: 800;
+  font-size: 18px;
+ line-height: 24px;
+}
+.references a {
+  color: #2E2F42;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+.footerd {
+  color: #E7E9FC;
+  font-size: 16px;
+  line-height: 24px;
+}
+.benefits h3 {
+  color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.benefits p {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
+.list_downsize h3 {
+  color: #2E2F42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.list_downsize p {
+  color: #434455;
+  font-size: 16px;
+  line-height: 24px;
+}
+.first_titel {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  color: #FFFFFF;
+
+}
+
+.first_section {
+  background: #2E2F42;
+}
+.team {
+  background: #F4F4FD;
+}
+.word_part_three { 
+  color: #2E2F42;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 24px;
+}
+.second_tite {
+  color: #2E2F42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+}
+.team h2 {
+  color: #2E2F42;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+}
+.ending {
+  background: #2E2F42;
+}

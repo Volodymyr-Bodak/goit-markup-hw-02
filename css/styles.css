@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto';
-  color: #FFFFFF;
+  
 }
 
 
@@ -13,14 +13,12 @@ body {
 .link:focus {
     color:teal;
 }
-.list {
-  text-decoration: none;
-}
 .button1 {
    color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
+  font-family: 'Roboto';
 }
 button:focus,
 button:active,
@@ -36,8 +34,11 @@ button {
     font-size: 16px;
     line-height: 24px;
     background: #4D5AE5;
+  font-family: 'Roboto';
 }
-
+.list {
+  text-decoration: none;
+}
 .list h3 {
   color: #2E2F42;
   font-weight: 500;
@@ -60,6 +61,7 @@ button {
   font-weight: 800;
   font-size: 18px;
  line-height: 24px;
+ font-family: 'Raleway' sans-serif; 
 }
 .references a {
   color: #2E2F42;
@@ -99,6 +101,7 @@ button {
   font-size: 56px;
   line-height: 60px;
   color: #FFFFFF;
+  font-family: 'Raleway' sans-serif;
 
 }
 
@@ -119,6 +122,7 @@ button {
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
+  font-family: 'Raleway' sans-serif;
 }
 .team h2 {
   color: #2E2F42;

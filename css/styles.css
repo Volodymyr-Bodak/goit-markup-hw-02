@@ -18,7 +18,9 @@ body {
 .link_one :focus{
   color: darkblue;
 }
-
+*{
+  text-decoration: none;
+}
 
 .button1 {
    color: #4D5AE5;

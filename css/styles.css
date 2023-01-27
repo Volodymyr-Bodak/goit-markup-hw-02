@@ -8,20 +8,23 @@ body {
   color: #FFFFFF;
 }
 
-.link a {
+.link .link_one {
   color:#434455;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
+  text-decoration: none;
 }
-.link:hover,
-.link:focus {
-    color:teal;
+.link_one:hover,
+.link_one :focus{
+  color: darkblue;
 }
+
+
 .button1 {
    color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5em;
     font-family: 'Roboto';
 }
 button:focus,
@@ -36,74 +39,83 @@ button {
    color: #FFFFFF;
    font-weight: 500;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 1.5em;
     background: #4D5AE5;
     font-family: 'Roboto';
 }
 .list {
   text-decoration: none;
 }
-.list h3 {
+.list .services {
   color:#2E2F42;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2em;
+  text-decoration: none;
 }
-.list p {
+.list .under_services {
   color: #434455;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
+  text-decoration: none;
 }
 .word_part_one {
   color: #4D5AE5;
   font-weight: 800;
  font-size: 18px;
- line-height: 24px;
+ line-height: 1.33em;
+ font-family: 'Raleway'sans-serif;
+ text-decoration: none;
 }
 .word_part_two {
   color: #F4F4FD;
   font-weight: 800;
   font-size: 18px;
- line-height: 24px;
+ line-height: 1.33em;
  font-family: 'Raleway' sans-serif; 
+ text-decoration: none;
 }
-.references a {
+.logo {
+ text-decoration: none;
+}
+.references .references_part {
   color: #2E2F42;
   font-weight: 500;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
+  text-decoration: none;
 }
 .footerd {
   color: #E7E9FC;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
 }
-.benefits h3 {
+.benefits .big_titel {
   color: #2E2F42;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2em;
 }
-.benefits p {
+.benefits .under_titel {
   color: #434455;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
 }
-.list_downsize h3 {
+.list_downsize .big_titel_two {
   color: #2E2F42;
   font-weight: 500;
   font-size: 20px;
-  line-height: 24px;
+  line-height: 1.2em;
 }
-.list_downsize p {
+.list_downsize .under_titel-two {
   color: #434455;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5em;
 }
 .first_titel {
   font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.07em;
   color: #FFFFFF;
   font-family: 'Raleway' sans-serif;
 
@@ -119,20 +131,22 @@ button {
   color: #2E2F42;
   font-weight: 800;
   font-size: 18px;
-  line-height: 24px;
+  line-height: 1.33em;
+  font-family: 'Raleway';
+  text-decoration: none;
 }
 .second_tite {
   color: #2E2F42;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11em;
   font-family: 'Raleway' sans-serif;
 }
-.team h2 {
+.team .titel_team {
   color: #2E2F42;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11em;
 }
 .ending {
   background: #2E2F42;

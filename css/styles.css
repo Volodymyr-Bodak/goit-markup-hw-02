@@ -16,7 +16,7 @@ body {
 }
 .link_one:hover,
 .link_one :focus{
-  color: darkblue;
+  color: #404BBF;
 }
 *{
   text-decoration: none;
